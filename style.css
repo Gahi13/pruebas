@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+header{
+    height: 7rem;
+    display: flex;
+    justify-content: end;
+    padding: 5rem;
+    background: linear-gradient(violet, black) ;
+}
+#texto{
+    padding: 2rem;
+}
+.parrafo{
+    background-color: aqua;
+    height: 200px !important;
+    width: 70%;
+}
+#ingles{
+    background-color: rgb(221, 188, 248);
+    width: 6rem;
+    height: 5rem;
+}
+#español{
+    background-color: rgb(221, 188, 248);
+    width: 6rem;
+    height: 5rem;
+}
